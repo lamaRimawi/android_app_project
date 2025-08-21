@@ -1,7 +1,7 @@
 # 🛒 **Smart Grocery Store** - Your Ultimate Shopping Companion 🛒
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=200&h=200&fit=crop&crop=center&mask=circle&maxage=7d" alt="Smart Grocery Store Logo" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://drive.google.com/uc?export=view&id=1nTd81pbeed8_uu0phEupx97LQvSKLjm5" alt="Smart Grocery Store Logo" width="200" height="200">
 </div>
 
 ## 📱 **About the App**
