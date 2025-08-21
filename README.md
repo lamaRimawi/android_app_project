@@ -30,48 +30,36 @@ I've designed this app to make grocery shopping effortless - browse products, ad
 
 ## 📸 **Screenshots**
 
-### **Authentication & Onboarding**
+### **App Screenshots**
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1c56iBRSfSv7kRAUS9CXYiZ-0HbKo3SiT" width="200" height="400" alt="Login Screen" />
-  <img src="https://drive.google.com/uc?export=view&id=1MTB2-AjYR1ZokgCOl3N2kHHvOhhdOGT7" width="200" height="400" alt="Registration Screen" />
+  <img src="https://drive.google.com/uc?export=view&id=1c56iBRSfSv7kRAUS9CXYiZ-0HbKo3SiT" width="200" height="400" alt="App Screenshot 1" />
+  <img src="https://drive.google.com/uc?export=view&id=1MTB2-AjYR1ZokgCOl3N2kHHvOhhdOGT7" width="200" height="400" alt="App Screenshot 2" />
+  <img src="https://drive.google.com/uc?export=view&id=1TDeBraqabk2akTnEf2uQaSMUaBrqnvry" width="200" height="400" alt="App Screenshot 3" />
 </div>
 
-*Secure login and registration with remember me functionality and comprehensive input validation*
-
-### **Core Shopping Experience**
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1TDeBraqabk2akTnEf2uQaSMUaBrqnvry" width="200" height="400" alt="Products Screen" />
-  <img src="https://drive.google.com/uc?export=view&id=1nvD9N5_AicXNqqT6k4q1RUMgyWOVn23M" width="200" height="400" alt="My Orders Screen" />
-  <img src="https://drive.google.com/uc?export=view&id=1xyji6_GmLcthTEpLWcyRRN-_FrfHS1cc" width="200" height="400" alt="My Favorites Screen" />
+  <img src="https://drive.google.com/uc?export=view&id=1nvD9N5_AicXNqqT6k4q1RUMgyWOVn23M" width="200" height="400" alt="App Screenshot 4" />
+  <img src="https://drive.google.com/uc?export=view&id=1xyji6_GmLcthTEpLWcyRRN-_FrfHS1cc" width="200" height="400" alt="App Screenshot 5" />
+  <img src="https://drive.google.com/uc?export=view&id=1wl43GEDkvqw-QiI0R-_fUKdUzXSSHYQB" width="200" height="400" alt="App Screenshot 6" />
 </div>
 
-*Browse products, manage orders, and save favorites with beautiful, intuitive interfaces*
-
-### **Admin Panel**
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1wl43GEDkvqw-QiI0R-_fUKdUzXSSHYQB" width="200" height="400" alt="Admin Dashboard" />
-  <img src="https://drive.google.com/uc?export=view&id=14eXhmEhrq71yX3z724WcGWvirajzFsMJ" width="200" height="400" alt="User Management" />
-  <img src="https://drive.google.com/uc?export=view&id=1NDFqEtDDcDDuQJOMA1g3V3_1i6BKbsGs" width="200" height="400" alt="Product Management" />
+  <img src="https://drive.google.com/uc?export=view&id=14eXhmEhrq71yX3z724WcGWvirajzFsMJ" width="200" height="400" alt="App Screenshot 7" />
+  <img src="https://drive.google.com/uc?export=view&id=1NDFqEtDDcDDuQJOMA1g3V3_1i6BKbsGs" width="200" height="400" alt="App Screenshot 8" />
+  <img src="https://drive.google.com/uc?export=view&id=1kLiX5aMg9IevPUa65ZNVrBN9ggxdoNPY" width="200" height="400" alt="App Screenshot 9" />
 </div>
 
-*Complete administrative control with user management, product management, and analytics*
-
-### **Additional Features**
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kLiX5aMg9IevPUa65ZNVrBN9ggxdoNPY" width="200" height="400" alt="Profile Management" />
-  <img src="https://drive.google.com/uc?export=view&id=1Bp9BmNoWFbqRqIEdY4H_fHbzPDFHW-ck" width="200" height="400" alt="Special Offers" />
-  <img src="https://drive.google.com/uc?export=view&id=1ZtcKxBJDXBl80m1wcm4CS_zu4QzBsBYt" width="200" height="400" alt="Shopping Cart" />
+  <img src="https://drive.google.com/uc?export=view&id=1Bp9BmNoWFbqRqIEdY4H_fHbzPDFHW-ck" width="200" height="400" alt="App Screenshot 10" />
+  <img src="https://drive.google.com/uc?export=view&id=1ZtcKxBJDXBl80m1wcm4CS_zu4QzBsBYt" width="200" height="400" alt="App Screenshot 11" />
+  <img src="https://drive.google.com/uc?export=view&id=1ia3PJG_xm8Cup2WHE3Tj3FQY7QFmHfEz" width="200" height="400" alt="App Screenshot 12" />
 </div>
 
-*Profile management, special offers, and shopping cart functionality*
-
-### **Order Management & Tracking**
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ia3PJG_xm8Cup2WHE3Tj3FQY7QFmHfEz" width="200" height="400" alt="Order Tracking" />
-  <img src="https://drive.google.com/uc?export=view&id=1Gq9tcXa9JOod8t8nH_S8glM3RzFLbREh" width="200" height="400" alt="Order History" />
+  <img src="https://drive.google.com/uc?export=view&id=1Gq9tcXa9JOod8t8nH_S8glM3RzFLbREh" width="200" height="400" alt="App Screenshot 13" />
 </div>
 
-*Track your orders and view complete order history*
+*Smart Grocery Store app interface showcasing user-friendly design and comprehensive functionality*
 
 ## 🛠️ **Technical Architecture**
 
