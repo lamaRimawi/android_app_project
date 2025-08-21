@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">1213515_1200209_Andriod</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Smart Grocery Store</string>
+    <string name="nav_header_subtitle">Welcome!</string>
+
+    <!-- Navigation Header -->
+    <string name="user_profile_picture">User Profile Picture</string>
+    <string name="default_user_name">User Name</string>
+    <string name="default_user_email">user@email.com</string>
+
+    <!-- Menu Items -->
+    <string name="menu_home">Home</string>
+    <string name="menu_products">Products</string>
+    <string name="menu_orders">My Orders</string>
+    <string name="menu_favorites">My Favorites</string>
+    <string name="menu_offers">Special Offers</string>
+    <string name="menu_profile">Profile Management</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- Home Fragment -->
+    <string name="store_logo_desc">Store Logo</string>
+    <string name="welcome_title">Welcome to Smart Grocery Store</string>
+    <string name="welcome_subtitle">Your trusted neighborhood grocery store, now at your fingertips!</string>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_description1">Smart Grocery Store has been serving the community for over 15 years, providing fresh produce, quality products, and exceptional customer service. We are committed to offering the best shopping experience with carefully selected items at competitive prices.</string>
+    <string name="about_us_description2">Our mission is to make grocery shopping convenient, affordable, and enjoyable for everyone in our community. From fresh fruits and vegetables to household essentials, we have everything you need under one roof.</string>
+    <string name="what_we_offer_title">What We Offer</string>
+    <string name="feature_fresh_produce">Fresh fruits and vegetables daily</string>
+    <string name="feature_delivery">Home delivery service</string>
+    <string name="feature_offers">Special offers and discounts</string>
+    <string name="feature_prices">Quality products at competitive prices</string>
+
+    <!-- Products Section -->
+    <string name="search_products">Search products...</string>
+    <string name="category_label">Category:</string>
+    <string name="price_range_label">Price Range:</string>
+    <string name="product_image_desc">Product Image</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="order_now">Order Now</string>
+
+    <!-- Order Dialog -->
+    <string name="place_order">Place Order</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="delivery_method_label">Delivery Method</string>
+    <string name="pickup_option">Pickup (Free)</string>
+    <string name="home_delivery_option">Home Delivery (+$5.00)</string>
+    <string name="total_price_label">Total Price:</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_order">Confirm Order</string>
+
+    <!-- My Orders Section -->
+    <string name="my_orders_title">My Orders</string>
+    <string name="my_orders_subtitle">Track your order history</string>
+    <string name="orders_icon_desc">Orders Icon</string>
+    <string name="no_orders_title">No Orders Yet</string>
+    <string name="no_orders_message">You haven\'t placed any orders yet. Start shopping to see your order history here!</string>
+    <string name="no_orders_desc">No Orders</string>
+    <string name="quantity_icon_desc">Quantity Icon</string>
+    <string name="date_icon_desc">Date Icon</string>
+    <string name="delivery_icon_desc">Delivery Icon</string>
+    <string name="total_label">Total:</string>
+
+    <!-- Favorites Section -->
+    <string name="my_favorites_title">My Favorites</string>
+    <string name="my_favorites_subtitle">Your saved products</string>
+    <string name="favorites_icon_desc">Favorites Icon</string>
+    <string name="no_favorites_title">No Favorites Yet</string>
+    <string name="no_favorites_message">You haven\'t added any products to your favorites yet. Browse products and tap the heart icon to save them here!</string>
+    <string name="no_favorites_desc">No Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+
+    <!-- Offers Section -->
+    <string name="special_offers_title">Special Offers</string>
+    <string name="special_offers_subtitle">Limited time discounts</string>
+    <string name="offers_icon_desc">Offers Icon</string>
+    <string name="hot_deals">HOT DEALS</string>
+    <string name="hot_deal">HOT</string>
+    <string name="no_offers_title">No Offers Available</string>
+    <string name="no_offers_message">There are currently no special offers available. Check back later for amazing deals and discounts!</string>
+    <string name="no_offers_desc">No Offers</string>
+
+    <!-- Profile Management Section -->
+    <string name="profile_management_title">Profile Management</string>
+    <string name="profile_management_subtitle">Update your personal information</string>
+    <string name="profile_picture_desc">Profile Picture</string>
+    <string name="change_photo_desc">Change Photo</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="change_password">Change Password</string>
+    <string name="password_change_note">Leave password fields empty if you don\'t want to change your password</string>
+    <string name="current_password_hint">Current Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="confirm_new_password_hint">Confirm New Password</string>
+    <string name="save_changes">Save Changes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
