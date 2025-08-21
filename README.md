@@ -1,6 +1,8 @@
 # 🛒 **Smart Grocery Store** - Your Ultimate Shopping Companion 🛒
 
-![Smart Grocery Store Logo](https://images.unsplash.com/photo-1542838132-92c53300491e?w=200&h=200&fit=crop&crop=center&mask=circle&maxage=7d)
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=200&h=200&fit=crop&crop=center&mask=circle&maxage=7d" alt="Smart Grocery Store Logo" width="200" height="200" style="border-radius: 50%;">
+</div>
 
 ## 📱 **About the App**
 
@@ -29,22 +31,47 @@ I've designed this app to make grocery shopping effortless - browse products, ad
 ## 📸 **Screenshots**
 
 ### **Authentication & Onboarding**
-<img src="path/to/login_screenshot.png" width="200" height="400" alt="Login Screen" />
-<img src="path/to/register_screenshot.png" width="200" height="400" alt="Registration Screen" />
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1c56iBRSfSv7kRAUS9CXYiZ-0HbKo3SiT" width="200" height="400" alt="Login Screen" />
+  <img src="https://drive.google.com/uc?export=view&id=1MTB2-AjYR1ZokgCOl3N2kHHvOhhdOGT7" width="200" height="400" alt="Registration Screen" />
+</div>
 
 *Secure login and registration with remember me functionality and comprehensive input validation*
 
 ### **Core Shopping Experience**
-<img src="path/to/products_screenshot.png" width="200" height="400" alt="Products Screen" />
-<img src="path/to/orders_screenshot.png" width="200" height="400" alt="My Orders Screen" />
-<img src="path/to/favorites_screenshot.png" width="200" height="400" alt="My Favorites Screen" />
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1TDeBraqabk2akTnEf2uQaSMUaBrqnvry" width="200" height="400" alt="Products Screen" />
+  <img src="https://drive.google.com/uc?export=view&id=1nvD9N5_AicXNqqT6k4q1RUMgyWOVn23M" width="200" height="400" alt="My Orders Screen" />
+  <img src="https://drive.google.com/uc?export=view&id=1xyji6_GmLcthTEpLWcyRRN-_FrfHS1cc" width="200" height="400" alt="My Favorites Screen" />
+</div>
 
 *Browse products, manage orders, and save favorites with beautiful, intuitive interfaces*
 
-### **Special Features**
-<img src="path/to/offers_screenshot.png" width="200" height="400" alt="Special Offers Screen" />
+### **Admin Panel**
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1wl43GEDkvqw-QiI0R-_fUKdUzXSSHYQB" width="200" height="400" alt="Admin Dashboard" />
+  <img src="https://drive.google.com/uc?export=view&id=14eXhmEhrq71yX3z724WcGWvirajzFsMJ" width="200" height="400" alt="User Management" />
+  <img src="https://drive.google.com/uc?export=view&id=1NDFqEtDDcDDuQJOMA1g3V3_1i6BKbsGs" width="200" height="400" alt="Product Management" />
+</div>
 
-*Discover amazing deals and limited-time discounts*
+*Complete administrative control with user management, product management, and analytics*
+
+### **Additional Features**
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1kLiX5aMg9IevPUa65ZNVrBN9ggxdoNPY" width="200" height="400" alt="Profile Management" />
+  <img src="https://drive.google.com/uc?export=view&id=1Bp9BmNoWFbqRqIEdY4H_fHbzPDFHW-ck" width="200" height="400" alt="Special Offers" />
+  <img src="https://drive.google.com/uc?export=view&id=1ZtcKxBJDXBl80m1wcm4CS_zu4QzBsBYt" width="200" height="400" alt="Shopping Cart" />
+</div>
+
+*Profile management, special offers, and shopping cart functionality*
+
+### **Order Management & Tracking**
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1ia3PJG_xm8Cup2WHE3Tj3FQY7QFmHfEz" width="200" height="400" alt="Order Tracking" />
+  <img src="https://drive.google.com/uc?export=view&id=1Gq9tcXa9JOod8t8nH_S8glM3RzFLbREh" width="200" height="400" alt="Order History" />
+</div>
+
+*Track your orders and view complete order history*
 
 ## 🛠️ **Technical Architecture**
 
